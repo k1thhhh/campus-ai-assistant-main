@@ -1,0 +1,3 @@
+# 提交前只检查已暂存的文件。
+pnpm exec lint-staged
+

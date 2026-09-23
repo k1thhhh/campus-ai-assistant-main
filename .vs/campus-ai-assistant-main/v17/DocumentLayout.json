@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\campus-ai-assistant-main\\campus-ai-assistant-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\campus-ai-assistant-main\\campus-ai-assistant-main\\apps\\web\\src\\components\\MessageItem.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:apps\\web\\src\\components\\MessageItem.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\campus-ai-assistant-main\\campus-ai-assistant-main\\apps\\web\\src\\api\\chat.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:apps\\web\\src\\api\\chat.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\campus-ai-assistant-main\\campus-ai-assistant-main\\apps\\web\\src\\stores\\chat.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:apps\\web\\src\\stores\\chat.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\campus-ai-assistant-main\\campus-ai-assistant-main\\apps\\server\\src\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:apps\\server\\src\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\campus-ai-assistant-main\\campus-ai-assistant-main\\packages\\shared-types\\src\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:packages\\shared-types\\src\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "chat.ts",
+              "DocumentMoniker": "D:\\campus-ai-assistant-main\\campus-ai-assistant-main\\apps\\web\\src\\api\\chat.ts",
+              "RelativeDocumentMoniker": "apps\\web\\src\\api\\chat.ts",
+              "ToolTip": "D:\\campus-ai-assistant-main\\campus-ai-assistant-main\\apps\\web\\src\\api\\chat.ts",
+              "RelativeToolTip": "apps\\web\\src\\api\\chat.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-09-23T02:40:50.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MessageItem.vue",
+              "DocumentMoniker": "D:\\campus-ai-assistant-main\\campus-ai-assistant-main\\apps\\web\\src\\components\\MessageItem.vue",
+              "RelativeDocumentMoniker": "apps\\web\\src\\components\\MessageItem.vue",
+              "ToolTip": "D:\\campus-ai-assistant-main\\campus-ai-assistant-main\\apps\\web\\src\\components\\MessageItem.vue",
+              "RelativeToolTip": "apps\\web\\src\\components\\MessageItem.vue",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2026-09-23T02:40:45.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "chat.ts",
+              "DocumentMoniker": "D:\\campus-ai-assistant-main\\campus-ai-assistant-main\\apps\\web\\src\\stores\\chat.ts",
+              "RelativeDocumentMoniker": "apps\\web\\src\\stores\\chat.ts",
+              "ToolTip": "D:\\campus-ai-assistant-main\\campus-ai-assistant-main\\apps\\web\\src\\stores\\chat.ts",
+              "RelativeToolTip": "apps\\web\\src\\stores\\chat.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-09-23T02:40:40.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.ts",
+              "DocumentMoniker": "D:\\campus-ai-assistant-main\\campus-ai-assistant-main\\apps\\server\\src\\index.ts",
+              "RelativeDocumentMoniker": "apps\\server\\src\\index.ts",
+              "ToolTip": "D:\\campus-ai-assistant-main\\campus-ai-assistant-main\\apps\\server\\src\\index.ts",
+              "RelativeToolTip": "apps\\server\\src\\index.ts",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-09-23T02:39:20.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.ts",
+              "DocumentMoniker": "D:\\campus-ai-assistant-main\\campus-ai-assistant-main\\packages\\shared-types\\src\\index.ts",
+              "RelativeDocumentMoniker": "packages\\shared-types\\src\\index.ts",
+              "ToolTip": "D:\\campus-ai-assistant-main\\campus-ai-assistant-main\\packages\\shared-types\\src\\index.ts",
+              "RelativeToolTip": "packages\\shared-types\\src\\index.ts",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-09-23T02:38:52.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
